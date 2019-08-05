@@ -1,0 +1,22 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
+  "env": {
+  },
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "name": "cloudcamp-frontend",
+  "scripts": {
+    "postdeploy": "npm install"
+  },
+  "stack": "heroku-18"
+}
