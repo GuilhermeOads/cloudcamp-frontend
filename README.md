@@ -9,7 +9,7 @@ Como vai rodar seu frontend
 - `npm install` Vai instalar todas as dependencias
 - `npm start` Vai startar o servidor
 
-Por padrão a aplicação roda na porta 4100. /Testando
+Por padrão a aplicação roda na porta 4100. /Testando ...
  
 
 ### Como fazer solicitações para a API de back-end
