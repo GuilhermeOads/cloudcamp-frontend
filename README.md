@@ -9,7 +9,7 @@ Como vai rodar seu frontend
 - `npm install` Vai instalar todas as dependencias
 - `npm start` Vai startar o servidor
 
-Por padrão a aplicação roda na porta 4100
+Por padrão a aplicação roda na porta 4100. /Testando
  
 
 ### Como fazer solicitações para a API de back-end
@@ -19,4 +19,4 @@ Para alterar a busca pelo Backend(API), basta editar `src/agent.js` e alterar` A
 
 ## Visão geral da funcionalidade
 
-O aplicativo de exemplo é um site de blog social (por exemplo, um clone do Medium.com) chamado "Cloud Post". Ele usa uma API personalizada para todas as solicitações, incluindo autenticação. 
+O aplicativo de exemplo é um site de blog social (por exemplo, um clone do Medium.com) chamado "Cloud Post". Ele usa uma API personalizada para todas as solicitações, incluindo autenticação....
